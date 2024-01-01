@@ -29,6 +29,12 @@ img{
   background: #fff;
   padding: 20px;
 }
+
+.navbar .container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 /* Utility Classes */
 .container{
   max-width: 1100px;
